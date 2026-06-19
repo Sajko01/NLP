@@ -36,7 +36,9 @@ Za LLM deo korišćen je model **Qwen2.5:3b** kod hibrida i **Llama3.2:3b** za p
 Pokretanje poređenja:
 
 python rulesOnly.py
+
 python llmOnly.py
+
 python hibrid_ten.py
 
 Pokretanje svih evaluacije(u kodu se podešava koji parser koristi, odkomentariše se import i fajl za greške):
